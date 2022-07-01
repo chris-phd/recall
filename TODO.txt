@@ -1,0 +1,13 @@
+
+# working through setting up the repo structure
+https://docs.python-guide.org/writing/structure/
+
+## Figure out how to import like this
+import recall as rl
+
+# understand how to install without uploading to Test PyPI
+
+# Understand how to run tests.
+STILL WORKING ON IMPORTING RECALL INTO THE TESTS
+
+# Plan out exactly what recall needs to do
