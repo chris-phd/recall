@@ -9,6 +9,12 @@ python3 -m build
 python3 -m twine upload --repository testpypi dist/* --skip-existing
 ```
 
+## Build and Install Locally
+```
+python3 setup.py install
+```
+May need to run this inside a virtual environment. 
+
 ## Run tests
 ```
 make test
